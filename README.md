@@ -102,7 +102,7 @@ Therefore, we can conclude that release dates have a significant impact on gross
 
 ![image](https://github.com/pkruga/Movies_Project/assets/91247293/1041823a-ed89-49e1-b8bc-f882d00d1375)
 
-The most likely months that seem to make more money are the spring and Summer months between April and June. This by no means that these months are the best times to release films as we see strong revenue generation in October and November.
+The most likely months that seem to make more money are the spring and Summer months between April and June. This by no means that these months are the best times to release films as we see strong revenue generation in October and November. In addition while these are the likely months for audiences to watch films, it is no indicator of success upon release.
 
 # Conclusions
 **Genre Popularity and Revenue Generation**:
