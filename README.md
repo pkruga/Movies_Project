@@ -114,7 +114,7 @@ Factors such as competition, audience demographics, marketing strategies, and th
 
 In conclusion, while genre selection, ratings, and release timing play significant roles in determining box office success, a holistic approach considering various factors is necessary for maximizing revenue and audience satisfaction in the film industry.
 
-#Recommendations
+# Recommendations
 
 Based on the conclusions drawn from the analysis, several recommendations can be made for movie studios, filmmakers, and other stakeholders in the film industry:
 
