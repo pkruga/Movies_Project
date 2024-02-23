@@ -79,6 +79,17 @@ In simple terms, this positive correlation indicates that there is a weak to mod
 This means that the audience and critics' rating of a movie does not necessarily affect it's revenue. 
 However, it's important to note that the correlation is not very strong, suggesting that other factors besides ratings also play a role in determining the financial success of a movie.
 
+![image](https://github.com/pkruga/Movies_Project/assets/91247293/52c1075d-ac93-4a11-b4dd-b9b2b9bf3172)
+
+Our different genres are rated in a similar range even in combination with other genres, Western and biography are rated higher than most other genres. This can be stated as they are attract positive reviews even when combined with other genres.
+
+![image](https://github.com/pkruga/Movies_Project/assets/91247293/c3bb8b7a-4654-4584-a8b3-75879343f903)
+
+Q1 (25th percentile): 4.2 Median (50th percentile): 6.5 Q3 (75th percentile): 8.8 Interquartile Range (IQR): 4.6000000000000005. These statistics suggest that the movie ratings exhibit variability, with a wide range of ratings observed across the dataset. The median rating of 6.5 indicates that the central tendency of the ratings distribution is around this value, with approximately half of the movies having ratings below 6.5 and the other half having ratings above it.
+
+However note that there are more outliers in the past our Q1 value than our Q3 value. Showing that more movies are rated lower than higher even in our distribution.
+
+
 ## Analysis by Release Date
 
 **ANOVA Test Result**:
@@ -100,7 +111,7 @@ These genres are also among the top revenue generators, indicating that they hav
 
 **Influence of Ratings on Gross Earnings**:
 The correlation coefficient between average ratings and gross earnings is approximately 0.21, indicating a weak to moderate positive correlation.
-This suggests that while there is some relationship between movie ratings and gross earnings, it is not very strong. Other factors beyond ratings also contribute to a movie's financial success.
+This suggests that while there is some relationship between movie ratings and gross earnings, it is not very strong. Other factors beyond ratings also contribute to a movie's financial success. From our box plot it is important to note as it indicates audiences and critics have a tendency to rate movies within our IQR range but will often score movies below that range as opposed to above it.
 
 **Effect of Release Dates on Gross Earnings**:
 There is a statistically significant difference in gross earnings among movies released in different months.
