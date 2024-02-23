@@ -33,10 +33,6 @@ Check for data redundancy including, duplicates, and missing values that might a
 ### Analysis by Genre
 **Genre Analysis**: Analyze the distribution of movie genres and identify the most popular genres. You can calculate the frequency of each genre and visualize it using bar plots.
 
-**Genre Trends Over Time**: Analyze how the popularity of different genres has changed over time. You can calculate the frequency of each genre for different time periods and visualize it using line plots or stacked bar plots.
-
-We can see that Adventure, Animation, Action, and Sci-Fi are the most popular genres. Showing that they are the most likely to attract audiences.
-
 **Revenue by Genre**: Analyze the relationship between net revenue for different genres. You can calculate average revenue and budget for each genre and visualize it using grouped bar plots or box plots.
 
 ### Analysis by Rating
