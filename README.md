@@ -57,9 +57,15 @@ These analyses provide numerical insights into the influence of ratings and rele
 
 ![image](https://github.com/pkruga/Movies_Project/assets/91247293/7ecc0b41-8bb7-418d-8bcb-3a3c289d3236)
 
+We can see the most popular genres are drama and comedy as per how many films feature each of the genres in the list. 
+
 ![image](https://github.com/pkruga/Movies_Project/assets/91247293/0fb0ebd9-89d9-4176-8ddd-ca36e23342f6)
 
 We see that Adventure, Animation, Action, and Sci-Fi are the most popular genres. Showing that they are the most likely to attract audiences.
+
+We see that Adventure, Animation, Action, and Sci-Fi are the most popular genres. Showing that they are the most likely to attract audiences.
+
+These figures contradict our earlier observation of most movies featuring comedy and drama genres proving that they are common but not necessarily popular.
 
 ## Analysis by Rating
 
